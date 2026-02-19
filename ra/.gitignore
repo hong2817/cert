@@ -43,3 +43,4 @@ out/
 /src/main/resources/fire-base.json
 ra/src/main/resources/application.properties
 resources/application.properties
+.idea/
